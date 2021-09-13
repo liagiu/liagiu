@@ -1,5 +1,15 @@
-### Hi there 👋
-
+### Hello, world! 
+<a href="https://discordapp.com/users/541015951269822465">
+  <img align="left" alt="Giulia's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/giuliadeoliveira/">
+  <img align="left" alt="Giulia's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br><br>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liagiu&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liagiu&layout=compact&langs_count=7&theme=omni"/>
+</div>
 <!--
 **liagiu/liagiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
